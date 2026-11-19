@@ -1,1 +1,6 @@
-
+{
+  "name": "Site simple",
+  "file": "index.html",
+  "avatar": "<svg xmlns=\"[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\"><defs><linearGradient id=\"appGradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4F46E5\" /><stop offset=\"100%\" stop-color=\"#06B6D4\" /></linearGradient><linearGradient id=\"accentGradient\" x1=\"0%\" y1=\"100%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.85\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\" /></linearGradient></defs><rect x=\"10\" y=\"10\" width=\"180\" height=\"180\" rx=\"42\" fill=\"url(#appGradient)\" /><g fill=\"url(#accentGradient)\"><rect x=\"55\" y=\"58\" width=\"90\" height=\"20\" rx=\"10\" /><rect x=\"55\" y=\"90\" width=\"65\" height=\"20\" rx=\"10\" /><rect x=\"55\" y=\"122\" width=\"90\" height=\"20\" rx=\"10\" /></g><circle cx=\"135\" cy=\"100\" r=\"10\" fill=\"#FBBF24\" /></svg>",
+  "banner": "https://graphiste.com/blog/inspiration-bannieres-originales-site/"
+}
