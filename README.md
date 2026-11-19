@@ -1,5 +1,5 @@
 
-# 🌌 NexusHub
+# SiteBase
 
 Un portail de sites statiques ultra-stylé et entièrement automatisé. Pas de serveur, pas de script de build complexe : tout se gère dynamiquement via l'API de GitHub.
 
